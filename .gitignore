@@ -1,0 +1,28 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Large Datasets & Archives
+mnist_dataset.zip
+mnist_data/
+*.zip
+
+# Backup files and copies
+*.bak
+*.bak2
+*_backup.ipynb
+*backup*
+*copy*
+*Copy*
+
+# Python & Jupyter cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Operating system files
+Thumbs.db
+.DS_Store
